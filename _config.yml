@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요. 많은 도움을 받고 언젠가는 도움을 주고 싶습니다."
   location         : "Seoul"
-  email            : "nsubway635@gmail.com
+  email            : "nsubway635@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
