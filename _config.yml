@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "김상상"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/fish01.jpeg"
   bio              : "안녕하세요. 많은 도움을 받고 언젠가는 도움을 주고 싶습니다."
   location         : "Seoul"
   email            : "nsubway635@gmail.com"
